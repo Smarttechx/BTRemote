@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.softdev.smarttechx.BTRemote.TimerActivity">
+    <item
+        android:id="@+id/action_synctime"
+        android:orderInCategory="100"
+        android:title="@string/action_sync"
+        android:icon="@drawable/ic_sync_black_24dp"
+        app:showAsAction="always" />
+</menu>
